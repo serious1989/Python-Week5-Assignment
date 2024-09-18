@@ -1,0 +1,6 @@
+Hello, this is the first line.
+Here is a number: 12345.
+Last line for the first write.
+Appended line 1.
+Appended line 2 with a number: 6789.
+Final appended line.
